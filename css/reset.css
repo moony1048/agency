@@ -129,6 +129,9 @@ table {
     border-spacing: 0;
 }
 
-img {
+/* 여백이 사라짐? */
+img,
+video,
+iframe {
     vertical-align: top;
 }
